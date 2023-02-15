@@ -116,8 +116,6 @@ p.b {
 
 
 body {
-  overflow-y: hidden;
-  overflow-x: hidden;
   font-family: 'Source Sans 3', sans-serif;
   font-size: 1em;
   margin: 0;
@@ -227,6 +225,35 @@ body {
   width: 50%;
 }
 
+.centerfloat {
+  float: center;
+
+}
+
+.columncontainer {
+  display: flex;
+  column-fill: balance;
+}
+
+.columni {
+
+width: 80%;
+float: center;
+padding: 1%;
+}
+
+
+@media (max-width: 800px) {
+  .columncontainer {
+    column-count: 1;
+  }
+
+  .columni {
+  width: 100%;
+  float: none;
+  }
+}
+
   & > #menu {
     float: right;
   }
@@ -317,6 +344,8 @@ body {
           }
 
         }
+
+        /* TWO COLUMNS */
 
       }
 
