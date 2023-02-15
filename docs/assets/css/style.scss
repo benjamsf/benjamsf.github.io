@@ -153,7 +153,15 @@ body {
   margin-left: 5rem;
   margin-top: 0.5rem;
 
-  
+  @media (max-width: 480px) {
+    .title {
+      max-height: 40px;
+      width: auto;
+      margin-right: 0.6rem;
+      margin-left: 0.5rem;
+      margin-top: 0.5rem;
+    }
+  }
 
 }
 
@@ -171,6 +179,7 @@ body {
   flex: 1;
   text-align: left;
   margin-left: 0.5rem;
+
 }
 
 .navbar-links {
@@ -187,7 +196,7 @@ body {
 }
 
 .title {
-  font-size: 2.5rem;
+  font-size: 3vw;
   font-weight: bold;
   text-align: center;
 
@@ -195,10 +204,16 @@ body {
   color:rgb(0, 0, 0);
 
   width: 30rem;
-  max-width: 860px;
+  max-width: 800px;
   margin: 0 auto;
   margin-top: 28%;
   padding: 0;
+
+  @media (max-width: 480px) {
+    .title {
+      max-width: 480px;
+    }
+  }
 }
 
 .center {
@@ -433,50 +448,8 @@ body {
     } // footer
 
 
-  } // .wrapper
-
-  @media all and (min-width: 1024px) and (max-width: 1280px) { }
-
-  @media all and (min-width: 768px) and (max-width: 1024px) { }
-  
-  @media all and (min-width: 480px) and (max-width: 768px) { }
-  
-  @media all and (max-width: 480px) { }
-  
-  
-  /* Portrait */
-  @media screen and (orientation:portrait) { /* Portrait styles here */ }
-  /* Landscape */
-  @media screen and (orientation:landscape) { /* Landscape styles here */ }
-  
-  
-  /* CSS for iPhone, iPad, and Retina Displays */
-  
-  /* Non-Retina */
-  @media screen and (-webkit-max-device-pixel-ratio: 1) {
-  }
-  
-  /* Retina */
-  @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
-  only screen and (-o-min-device-pixel-ratio: 3/2),
-  only screen and (min--moz-device-pixel-ratio: 1.5),
-  only screen and (min-device-pixel-ratio: 1.5) {
-  }
-  
-  /* iPhone Portrait */
-  @media screen and (max-device-width: 480px) and (orientation:portrait) {
-  } 
-  
-  /* iPhone Landscape */
-  @media screen and (max-device-width: 480px) and (orientation:landscape) {
-  }
-  
-  /* iPad Portrait */
-  @media screen and (min-device-width: 481px) and (orientation:portrait) {
-  }
-  
-  /* iPad Landscape */
-  @media screen and (min-device-width: 481px) and (orientation:landscape) {
-  }
+  // .wrapper
 
 } // body
+
+}
