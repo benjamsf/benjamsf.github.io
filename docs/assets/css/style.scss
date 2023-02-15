@@ -231,28 +231,24 @@ body {
 }
 
 .columncontainer {
-  display: flex;
-  column-fill: balance;
-}
-
-.columni {
-
-width: 80%;
-float: center;
-padding: 1%;
-}
-
-
-@media (max-width: 800px) {
+  column-count: 2;
+  column-gap: 2em;
+  }
+  
+  @media (max-width: 800px) {
   .columncontainer {
     column-count: 1;
+   }
+  }
+  
+  .columni {
+    padding: 1%;
   }
 
   .columni {
   width: 100%;
   float: none;
   }
-}
 
   & > #menu {
     float: right;
