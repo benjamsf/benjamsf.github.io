@@ -4,7 +4,7 @@ title: "PVARKI-projekti"
 ---
 
 # PVARKI: Mobiili- ja siviililaitteet sotilaskäytössä
-
+<br />
 
 <div class="columncontainer">
 
@@ -23,6 +23,7 @@ title: "PVARKI-projekti"
 **PVARKI-projekti** on Puolustusvoimien [digitalisaatio-ohjelmaan](https://puolustusvoimat.fi/digitalisaatio) kuuluva projekti, joka luo kykyä tuottaa PVARKI-sovelluspalveluita (SaaS) ja sovelluksia maanpuolustuksen käyttöön. Tavoitteemme on luoda **1.** sotilastehtäviin soveltuvia **nykyaikaisia sovelluspalveluita** (SaaS) eli PVARKI-tuotteita, sekä **2.** **vapaaehtoiseen maanpuolustukseen perustuva sovelluskehitysyhteisö**, joka kykenee näitä innovoimaan ja rakentamaan PV:n ohjauksessa.
 </div>
 </div>
+<br />
 
 ## Miten mukaan?
 Luomme projektissa uutta vapaaehtoisen maanpuolustuksen muotoa. Teknologia-ammattilaiset toimivat Puolustusvoimien ohjauksessa siten, että teknologiatyötä johtavat vapaaehtoiset huippuosaajat. 
@@ -32,6 +33,9 @@ Projektin alustat ovat [Github](https://github.com/pvarki) ja pääalusta Discor
 <br />
 ## Tehtäviä?
 PVARKI-projektissa on tarjolla erilaisia tehtäviä Suomen kansalaisille vapaaehtoisen maanpuolustuksen merkeissä.
+
+<br />
+
 <table>
 <colgroup>
 <col width="50%" />
@@ -59,3 +63,5 @@ PVARKI-projektissa on tarjolla erilaisia tehtäviä Suomen kansalaisille vapaaeh
 
 <br />
 Myöhemmin tälle sivulle päivittyy julkisten projektien kuvaukset, repositoryt ja backlogit.
+
+<br />
