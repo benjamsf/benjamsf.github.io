@@ -125,11 +125,11 @@ body {
 
   overflow-x: hidden;
   overflow-y: scroll;
-
+  
   background-image: url("/images/b6ZG80vTDWYiMlgaEzCF_TW0Xt2m2584OU146.jpeg");
   background-attachment: fixed; 
   background-size: cover;
-  
+  touch-action: none;
   
 .navbar {
     position: fixed;
@@ -209,19 +209,20 @@ body {
   background-color: #fefefe9c;
   color:rgb(0, 0, 0);
 
-  width: 30rem;
+  width: auto;
   max-width: 800px;
   margin: 0 auto;
   margin-top: 28%;
   padding: 0;
-
 }
 
-  @media (max-width: 480px) {
-    .title {
-      max-width: 480px;
-    }
+@media (max-width: 480px) {
+  .title {
+    width: auto;
+    margin-top: 80%;
+    padding: 0;
   }
+}
 
 .center {
   display: block;
@@ -320,7 +321,7 @@ body {
       width: 90vw;
       max-width: 860px;
       margin: 0 auto;
-      padding: 0 0em 0 0em;
+      padding: 0 1em 0 1em;
       border-bottom: 1px solid #465b2b;
       color: #000000;
       background-color: #ffffffc0;
@@ -493,3 +494,6 @@ body {
 } // body
 
 }
+
+
+
