@@ -28,7 +28,7 @@ title: "PVARKI-projekti"
 ## Miten mukaan?
 Luomme projektissa uutta vapaaehtoisen maanpuolustuksen muotoa. Teknologia-ammattilaiset toimivat Puolustusvoimien ohjauksessa siten, että vapaaehtoiset huippuosaajat johtavat teknologiatyötä.
 
-Projektin alustat ovat [Github](https://github.com/pvarki) Discord. **Toistaiseksi** toimimme luottamusverkostoperiaatteella, eli vapaaehtoisen maanpuolustuksen merkeissä pääalustallemme pääsee **jonkun mukana jo olevan kutsusta.** Discord-kutsun saatuasi keskustelualustalla odottaa rekrytointilomake. Rekrytointilomake tiedustelee kiinnostuksesi osallistua. Tulevaisuudessa Discord-alusta avautuu siten, että sille pääsee lomakkeen täyttämällä sisään. 
+Projektin alustat ovat [Github](https://github.com/pvarki) ja Discord. **Toistaiseksi** toimimme luottamusverkostoperiaatteella, eli vapaaehtoisen maanpuolustuksen merkeissä pääalustallemme pääsee **jonkun mukana jo olevan kutsusta.** Discord-kutsun saatuasi keskustelualustalla odottaa rekrytointilomake. Rekrytointilomake tiedustelee kiinnostuksesi osallistua. Tulevaisuudessa Discord-alusta avautuu siten, että sille pääsee lomakkeen täyttämällä sisään. 
 
 <br />
 
