@@ -13,7 +13,7 @@ title: "PVARKI-projekti"
 <br />
 
 
-**[Puolustusvoimien johtamisen tuen konseptin 2030 mukaan](https://maavoimat.fi/maapuolustuksen-johtaminen-2030-luvulla)** maanpuolustuksen johtamisjärjestelmä koostuu **taistelun johtamisen**, **viranomaisten** ja **arjen järjestelmistä**. Arjen järjestelmät (PVARKI) tarkoittavat mobiili- ja siviilipäätelaitteiden ja aaakaupallisten mobiiliverkkojen sotilaskäyttöä. Tämä on mahdollista reunaehtojen täyttyessä. Erityisesti paikallispuolustukselle PVARKI on merkittävä potentiaali.</div>
+**[Puolustusvoimien johtamisen tuen konseptin 2030 mukaan](https://maavoimat.fi/maapuolustuksen-johtaminen-2030-luvulla)** maanpuolustuksen johtamisjärjestelmä koostuu **taistelun johtamisen**, **viranomaisten** ja **arjen järjestelmistä**. Arjen järjestelmät (PVARKI) tarkoittavat mobiili- ja siviilipäätelaitteiden ja kaupallisten mobiiliverkkojen sotilaskäyttöä. Tämä on mahdollista reunaehtojen täyttyessä. Erityisesti paikallispuolustukselle PVARKI on merkittävä potentiaali.</div>
 
 <div class="columni" markdown="span">
 **PVARKI-projekti**
